@@ -16,6 +16,27 @@
           "type": "minecraft:model",
           "model": "item/spawnstone"
         }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/daystone"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/flightstone"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/waterstone"
+        }
       }
     ],
     "fallback": {
